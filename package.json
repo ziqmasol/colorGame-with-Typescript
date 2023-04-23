@@ -1,0 +1,12 @@
+{
+  "name": "colorgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
