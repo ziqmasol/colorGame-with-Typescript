@@ -8,6 +8,7 @@ body{
     background-color: lightgrey
 }
 /* TypeScale Starts */
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Nunito+Sans:ital,wght@1,900&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 
 @import url('https://fonts.googleapis.com/css?family=Roboto+Serif:400');
 
@@ -21,7 +22,7 @@ body {
   color: #000000;
 }
 
-p {margin-bottom: 1rem;}
+/* p {margin-bottom: 1rem;} */
 
 h1, h2, h3, h4, h5 {
   margin: 1.5rem 0 1.38rem;
@@ -118,4 +119,21 @@ small, .text_small {font-size: 0.8rem;}
     color: white;
     font-family: 'Roboto Serif', serif;
     font-weight: 800;
+}
+
+.gamestatus{
+    font-weight: 800;
+    /* font-family: nunito; */
+    font-family: 'Fasthand', cursive;
+font-family: 'Nunito', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+}
+
+
+.success{
+    color: green;
+}
+
+.fail{
+    color: red;
 }
